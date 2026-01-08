@@ -1,0 +1,9 @@
+créer une base de donnes
+créer table
+CRUD AVEC IMAGE
+nom 
+prenom
+date de naissance
+login 
+password
+photo

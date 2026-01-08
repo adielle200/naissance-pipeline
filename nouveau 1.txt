@@ -1,0 +1,16 @@
+https://www.apprendre-php.com/tutoriels/tutoriel-12-traitement-des-formulaires-avec-get-et-post.html
+
+https://www.w3schools.com/php/php_superglobals_post.asp
+
+https://www.php.net/manual/en/features.file-upload.post-method.php
+
+https://www.w3schools.com/php/php_file_upload.asp
+
+
+
+https://www.w3schools.com/php/php_mysql_connect.asp
+
+https://www.linuxtricks.fr/wiki/php-passer-de-mysql-a-mysqli-requetes-de-base
+
+https://www.php.net/manual/fr/mysqli.quickstart.statements.php
+
