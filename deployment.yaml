@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: naissance-deploy
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: naissance
+  template:
+    metadata:
+      labels:
+        app: naissance
+    spec:
+      containers:
+      - name: naissance
+        image: naissance-app:latest
+        ports:
+        - containerPort: 80
